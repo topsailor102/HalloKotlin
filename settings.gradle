@@ -1,0 +1,2 @@
+rootProject.name='Hallo Kotlin'
+include ':app'
